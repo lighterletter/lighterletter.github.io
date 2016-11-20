@@ -68,7 +68,7 @@ body {
 	width:36px;
 	position: absolute;
     top: 40%;
-    left: 40%;
+    left: 35%;
     transform: translateX(-50%) translateY(-50%);
 }
 
@@ -79,7 +79,7 @@ body {
 	width:36px;
 	position: absolute;
     top: 40%;
-    left: 50%;
+    left: 45%;
     transform: translateX(-50%) translateY(-50%);
 }
 
@@ -91,7 +91,19 @@ body {
 	position: absolute;
 	font-size: 14px;
     top: 40%;
-    left: 60%;
+    left: 55%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.medium {
+	border-radius: 5px 5px 5px 5px;
+	border: solid white;
+	height:36px; 
+	width:36px;
+	position: absolute;
+	font-size: 14px;
+    top: 40%;
+    left: 65%;
     transform: translateX(-50%) translateY(-50%);
 }
 
